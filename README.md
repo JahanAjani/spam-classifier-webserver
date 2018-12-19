@@ -1,7 +1,7 @@
 # spam-classifier-webserver
 This repository contains code for spam classifier as a webservices
 
-#Installation
+# Installation
 Run the following command on the root dorectory of this project.
 1. `pip install -r requirements.txt `
 2. `flask run `
