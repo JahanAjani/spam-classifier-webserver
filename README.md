@@ -1,5 +1,6 @@
 # spam-classifier-webserver
-This repository contains code for spam classifier as a webservices
+A Flask based webserver which accepts text from user through webservice,
+and generates prediction whether the text is spam or ham.
 
 # Installation
 Run the following command on the root dorectory of this project.
