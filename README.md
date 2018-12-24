@@ -22,3 +22,10 @@ Run the following command on the root dorectory of this project.
 This will start flask based spam classifier server in **production mode**.
 
 To access home page browse to `http://localhost:5000`
+
+**To start python notebook from within python virtual environment follow below commands:**
+1. `ipython kernel install --user --name=spamclassifier`
+2. `jupyter notebook`
+3. open `DataModelling&NaiveBayesModel.ipynb` from browser.
+
+**NOTE**: if you are running multiple kernels in jupyter notebook, switch to `spamclassifier` kernel from `kernel->change kernel->spamclassifier` from browser.
