@@ -13,11 +13,12 @@ Therefore, We’ll build a simple message classifier using Naive Bayes theorem.
 Run the following command on the root dorectory of this project.
 
 **Optional commands to create virual environment to install dependency**:
-	1. `Create virtual environment: 'python -m venv spamclassifier'`
-	2. `Activate virual environment: 'spamclassifier\Scripts\activate'`
+1. `Create virtual environment: 'python -m venv spamclassifier'`
+2. `Activate virual environment: 'spamclassifier\Scripts\activate'`
+
 **Command to start server**:
-	1. `install dependency: pip install -r requirements.txt`
-	2. `flask run`
-		This will start flask based spam classifier server in **production mode**.
+1. `install dependency: 'pip install -r requirements.txt'`
+2. `flask run`
+This will start flask based spam classifier server in **production mode**.
 
 To access home page browse to `http://localhost:5000`
