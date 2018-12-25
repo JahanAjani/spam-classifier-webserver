@@ -29,3 +29,7 @@ To access home page browse to `http://localhost:5000`
 3. open `DataModelling&NaiveBayesModel.ipynb` from browser.
 
 **NOTE**: if you are running multiple kernels in jupyter notebook, switch to `spamclassifier` kernel from `kernel->change kernel->spamclassifier` from browser.
+
+#References:
+1. https://anbasile.github.io/programming/2017/06/25/jupyter-venv/
+
