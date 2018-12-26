@@ -30,7 +30,7 @@ To access home page browse to `http://localhost:5000`
 
 **NOTE**: if you are running multiple kernels in jupyter notebook, switch to `spamclassifier` kernel from `kernel->change kernel->spamclassifier` from browser.
 
-###web app routes:
+### web app routes:
 1. `localhost:5000\train`  will load dataset and create vocabulary, train Naive Bayes model using it.
 2. `localhost:5000\` or `localhost:5000\index` is the main page of the web app.
 3. `localhost:5000\predict` will predict the class of passed text to it. This api will load trained model which were created from 1st url and use it for prediction.
